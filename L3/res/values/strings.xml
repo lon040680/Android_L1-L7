@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">thredeUI</string>
+    <string name="姓名">姓名 :</string>
+    <string name="學歷">學歷 :</string>
+    <string name="Email">Email :</string>
+    <string name="性別">性別 :</string>
+    <string name="OK">OK</string>
+    <string name="請輸入名字">請輸入名字</string>
+    <string name="男">男</string>
+    <string name="女">女</string>
+    <string name="不公開">不公開</string>
+    <string name="email">Email</string>
+    <string name="seeall">seeall</string>
+    <string name="see">see</string>
+    <string name="高中">高中</string>
+    <string name="大學">大學</string>
+    <string name="碩士">碩士</string>
+</resources>
