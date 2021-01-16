@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLifeCycle</string>
+    <string name="activity">開啟 Activity</string>
+    <string name="dialog_activity">開啟 Dialog Activity</string>
+    <string name="activity2">關閉 Activity</string>
+    <string name="alert">開啟 Alert</string>
+</resources>
