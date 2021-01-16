@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="intent">啟動APP</string>
+    <string name="web">開啟網頁</string>
+    <string name="dialog">開啟對話框</string>
+    <string name="call">開啟電話</string>
+    <string name="mail">開啟Mail</string>
+</resources>
